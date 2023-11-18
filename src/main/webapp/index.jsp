@@ -12,6 +12,8 @@
 
 <h7><a href="addon.jsp">  New Add On Added New Code </a> <br/> <br/> <br/> </h7>
 
+<h7><a href="addon.jsp">  NextPage Added Throug AWS </a> <br/> <br/> <br/> </h7>
+
 <h1> This Is Test </h1> 
 </body>
 </html>
