@@ -10,7 +10,7 @@
 
 <a href="Help.jsp"> Help Page  </a> <br/> <br/> <br/>
 
-<h7><a href="addon.jsp"> Help Page  </a> <br/> <br/> <br/> </h7>
+<h7><a href="addon.jsp"> <font color=red> New Add On Added </font> </a> <br/> <br/> <br/> </h7>
 
 <h1> This Is Test </h1> 
 </body>
