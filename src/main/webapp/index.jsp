@@ -4,6 +4,8 @@
 <h1>  This Is Java Application We Are Running Manually </h1>
 <h1> Update Brao </h1>
 
+<a href="S1.jsp"> S1 Added In Directory </a> <br/> <br/> <br/>
+
 <a href="about.jsp"> About Page </a> <br/> <br/> <br/>
 
 <a href="services.jsp"> Services Added </a> <br/> <br/> <br/>
